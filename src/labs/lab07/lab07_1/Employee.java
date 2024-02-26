@@ -1,7 +1,7 @@
 package labs.lab07.lab07_1;
 
 public class Employee {
-    public Integer salary;
+    protected int salary;
 
     public Employee(int salary) {
         this.salary = salary;
