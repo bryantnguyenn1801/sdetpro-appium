@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75718e09-bcc4-48ba-9eb8-3814e99be622" name="Changes" comment="Bryant's lab7">
+    <list default="true" id="75718e09-bcc4-48ba-9eb8-3814e99be622" name="Changes" comment="Bryant's lab7 update">
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_1/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_1/BuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_1/SpeedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_2/ContractEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_2/Day_10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_2/FulltimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/day_10/day_10_2/SalaryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/lab07/lab07_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/lab07/lab07_1/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +49,26 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/bryantnguyen1801/SDETPRO/sdetpro-appium/src/labs/day_10/day_10_2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab7_2">
-    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab03.Lab3" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/labs/day_10/day_10_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day_10_2">
+    <configuration name="BuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.day_10_1.BuilderTest" />
       <module name="sdetpro-appium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab03.*" />
+          <option name="PATTERN" value="labs.day_10_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab04.Lab4" />
+    <configuration name="Day_10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.day_10.day_10_2.Day_10_2" />
       <module name="sdetpro-appium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab04.*" />
+          <option name="PATTERN" value="labs.day_10.day_10_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day_10_2" />
+        <item itemvalue="Application.BuilderTest" />
         <item itemvalue="Application.Lab7_2" />
         <item itemvalue="Application.Lab7_1" />
         <item itemvalue="Application.Lab6" />
-        <item itemvalue="Application.Lab4" />
-        <item itemvalue="Application.Lab3" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708882138974</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bryant's lab7 update">
+      <created>1708952537233</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708952537233</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +217,8 @@
     <MESSAGE value="Bryant's lab4" />
     <MESSAGE value="Bryant's lab6" />
     <MESSAGE value="Bryant's lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bryant's lab7" />
+    <MESSAGE value="Bryant's lab7 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bryant's lab7 update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
